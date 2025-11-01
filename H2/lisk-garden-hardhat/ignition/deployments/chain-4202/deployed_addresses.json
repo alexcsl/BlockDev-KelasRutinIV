@@ -1,0 +1,8 @@
+{
+  "LiskGardenModule#LiskGarden": "0xEFaD62AF4b11BA436259d474555493D086ED030d",
+  "BasicTokenModule#BasicToken": "0xd82178E062c4da33a970cad6fC884c12a3ec5330",
+  "StandardTokenModule#StandardToken": "0xd608A98868190c2E0F34c095ffE8b995F91A88c8",
+  "GardenTokenModule#GardenToken": "0x085881d03F7B5B5E686FC23F1B873204c7b1BCC3",
+  "PlantNFTModule#PlantNFT": "0x9615ff6c26124F9309dDaD2Ad26C260b81836680",
+  "GameItemsModule#GameItems": "0x8622Ba73150220Ab9F3A0ed431465df6d69999fb"
+}
