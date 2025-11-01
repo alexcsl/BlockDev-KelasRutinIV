@@ -19,7 +19,7 @@ contract GameItemsss is ERC1155, Ownable {
     uint256 public constant MANA_POTION = 4;
 
     // ============ STATE ============
-//
+
     /**
      * @dev Track total minted per item
      */
